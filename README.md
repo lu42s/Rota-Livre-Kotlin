@@ -18,7 +18,7 @@ Quem usa cadeira de rodas, muletas ou carrinho de bebê não sabe com antecedên
 
 ## 🎯 Público beneficiado
 
-- Pessoas com deficiência física (cadeirantes, usuários de muletas ou andador)
+- Pessoas com deficiência 
 - Idosos
 - Gestantes
 - Pais e mães com carrinho de bebê
@@ -42,7 +42,6 @@ O **RotaLivre** é um mapa colaborativo de obstáculos e da acessibilidade de ru
 - **Filtro por perfil de mobilidade** (cadeira de rodas, muletas ou andador, carrinho de bebê, idosos e gestantes)
 - **Cadastro de ocorrência** com tipo (e sugestões rápidas), localização, perfil afetado e descrição
 - **Validação do formulário**: todos os campos são obrigatórios e a descrição exige no mínimo 10 caracteres (espaços em branco não contam)
-- **Detalhes da ocorrência** com data e hora do registro
 - **Alteração de status**: Pendente → Confirmado pela comunidade (Validado) → Resolvido, ou de volta para Pendente
 - **Exclusão** com diálogo de confirmação
 - **Mensagens de confirmação** (Snackbar) ao registrar, alterar status e excluir
